@@ -1,4 +1,4 @@
-# Assignment 2 
+# Image Reconstruction using Matrix Factorization and Random Fourier Features
 
 **Total marks: 10 (This assignment total to 20, we will overall scale by a factor of 0.5)**
 
